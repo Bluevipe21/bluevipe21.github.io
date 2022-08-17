@@ -3,6 +3,11 @@ layout: page
 title: Acerca de mi
 image: assets/images/pic01.jpg
 nav-menu: true
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
 ---
 
 <!-- Main -->
@@ -69,8 +74,6 @@ nav-menu: true
 
 </div>
 
-graph TD
-	A[Christmas] -->|Get money| B(Go shopping)
-	B --> C{Let me think}
+
 	
 
