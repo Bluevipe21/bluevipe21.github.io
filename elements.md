@@ -33,9 +33,7 @@ nav-menu: true
 		<p>Trabajar en el mundo de la robótica a nivel industrial y tal vez algún día crear mi propio proyecto que sea de aporte para mi país a nivel educativo y económico. </p>
 	</div>
 </div>
-
 <hr class="major" />
-
 <!-- Lists -->
 <h3>Aptitudes profesionales</h3>
 <div class="row">
@@ -48,7 +46,7 @@ nav-menu: true
 			<li>Me gusta trabajar en equipo porque puedo aprender de otras personas y ellos de mi. Tengo buena comunicación con todo tipo de personas para lograr los objetivos que nos propongamos.</li>
 			<li>Me gusta participar en la resolución de problemas complejos porque me ayudan a aprender nuevas cosas que tal vez en el momento ni siquiera sabía que exístiesen o que pudieran realizarse.</li>
 		</ul>
-</div><br />	
+</div>	
 <!-- Box -->
 <h3>Mis anhelos en la vida</h3>
 <div class="box">
