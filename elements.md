@@ -27,19 +27,19 @@ nav-menu: true
 	<dd>
 		<p>Me gusta trabajar en equipo porque puedo aprender de otras personas y ellos de mi. Tengo buena comunicación con todo tipo de personas para lograr los objetivos que nos propongamos.</p>
 	</dd>
-	<dt>Inteligencia emocional</dt>
+	<dt><u>Inteligencia emocional</u></dt>
 	<dd>
 		<p>Trabajo constantemente en mi inteligencia emocional para evitar conflictos irracionales con las personas ya que estos conflictos no ayudan al querer obtener una convivencia sana.</p>
 	</dd>
-	<dt>Resolución de problemas complejos</dt>
+	<dt><u>Resolución de problemas complejos</u></dt>
 	<dd>
 		<p>Me gusta participar en la resolución de problemas complejos porque me ayudan a aprender nuevas cosas que tal vez en el momento ni siquiera sabía que exístiesen o que pudieran realizarse.</p>
 	</dd>
-	<dt>Iniciativa</dt>
+	<dt><u>Iniciativa</u></dt>
 	<dd>
 		<p>Soy una persona con iniciativa que siempre busca innovar e ir más allá de lo que se busca inicialmente al comenzar un proyecto cuando hay oportunidad.</p>
 	</dd>
-	<dt>Resiliencia</dt>
+	<dt><u>Resiliencia</u></dt>
 	<dd>
 		<p>Siempre busco adaptarme a las adversidades con calma y tratando de no complicar los problemas que ya exísten, trabajando en ello con paciencia.</p>
 	</dd>
