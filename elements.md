@@ -54,10 +54,10 @@ nav-menu: true
 		</ul>
 	</div>
 	<!-- Box -->
-<h3>Mis anhelos en la vida</h3>
-<div class="box">
-	<p>Quisiera convertirme en la mejor versión de mi persona, motivando a las personas a buscar sus objetivos, tratar de apoyar en lo que pueda a las personas que conozca, nunca conformarme con nada, mantenerme siempre proactivo y dejar una huella dentro de la sociedad y mejor aún en el ámbito tecnológico. </p>
-</div>		
+	<h3>Mis anhelos en la vida</h3>
+	<div class="box">
+		<p>Quisiera convertirme en la mejor versión de mi persona, motivando a las personas a buscar sus objetivos, tratar de apoyar en lo que pueda a las personas que conozca, nunca conformarme con nada, mantenerme siempre proactivo y dejar una huella dentro de la sociedad y mejor aún en el ámbito tecnológico. </p>
+	</div>		
 	<div class="6u$ 12u$(small)">
 		<h4>Icons</h4>
 		<ul class="icons">
