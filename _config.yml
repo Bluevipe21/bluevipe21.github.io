@@ -2,7 +2,7 @@
 title: Portafolio
 subtitle: Luis Fernando Hernández Godínez
 email: bluevipe21@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: Bienvenidos a mi portafolio,<br /> aquí puedes ver mi formación educativa y aprender un poco de mi.
 baseurl: "" # the subpath of your site, e.g. /blog
 url:  # the base hostname & protocol for your site
 author:
@@ -11,7 +11,7 @@ city: Guatemala
 state: GT
 zip_code: 01010
 country: Guatemala
-phone: (502) 47708232
+phone: (+502) 47708232
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,13 +22,13 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://github.com/Bluevipe21
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  Google-Plus: 
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
-  Facebook:
+  LinkedIn: https://www.linkedin.com/in/luis-fernando-hern%C3%A1ndez-god%C3%ADnez-6006a7241/
+  Twitter: 
+  Facebook: https://www.facebook.com/Bluevipe21/
   Slack:
 
 # build settings
