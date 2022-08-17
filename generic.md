@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Pasatiempos
-description: Un poco de mi vida personal
+title: Educación
+description: Algunos proyectos que he trabajado
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
