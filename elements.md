@@ -68,9 +68,7 @@ nav-menu: true
 
 
 <!-- Image -->
-<h3>Image</h3>
-
-<h4>Fit</h4>
+<h4>Sera un gusto conocerte</h4>
 <span class="image fit"><img src="{% link assets/images/pic03.jpg %}" alt="" /></span>
 
 
