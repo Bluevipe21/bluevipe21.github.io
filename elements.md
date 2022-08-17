@@ -33,9 +33,7 @@ nav-menu: true
 		<p>Trabajar en el mundo de la robótica a nivel industrial y tal vez algún día crear mi propio proyecto que sea de aporte para mi país a nivel educativo y económico.</p>
 	</div>
 </div>
-
 <hr class="major" />
-
 <!-- Elements -->
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
