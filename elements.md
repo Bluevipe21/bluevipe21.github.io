@@ -21,16 +21,16 @@ nav-menu: true
 <div class="row">
 	<div class="4u 12u$(medium)">
 		<h2 id="content">Mis objetivos</h2>
-		<h3>Automatización</h3>
+		<h3>En el campo de laAutomatización</h3>
 		<p>Lograr aplicar el conocimiento que adquiero para ayudar a construir proyectos que contribuyan a la sociedad de manera tecnológica y que alegren a las personas.</p>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>Robótica</h3>
+		<h3>En la Robótica</h3>
 		<p>Trabajar en el mundo de la robótica a nivel industrial y tal vez algún día crear mi propio proyecto que sea de aporte para mi país a nivel educativo y económico. </p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>Laboral</h3>
-		<p>Buscar ser parte del sector revolucionario a nivel tecnológico dentro de mi país.</p>
+		<h3>En el campo Laboral</h3>
+		<p>Buscar ser parte del sector revolucionario a nivel tecnológico dentro de mi país y aportar mi conocimiento a las empresas con las que trabaje.</p>
 	</div>
 </div>
 
@@ -40,34 +40,16 @@ nav-menu: true
 <h3>Aptitudes profesionales</h3>
 <div class="row">
 	<div class="6u 12u$(small)">
-
-		<h4>Unordered</h4>
+		<h4>Soft skills</h4>
 		<ul>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Sagittis lorem eleifend.</li>
-			<li>Felis dolore viverra.</li>
+			<li>Trabajo constantemente en mi inteligencia emocional para evitar conflictos irracionales con las personas ya que estos conflictos no ayudan al querer obtener una convivencia sana.</li>
+			<li>Me considero una persona curiosa porque siempre busco ver cómo funcionan las cosas en la naturaleza y en la tecnología. Siempre estoy buscando información sobre diferentes campos de la tecnología. </li>
+			<li>Soy una persona con iniciativa que siempre busca innovar e ir más allá de lo que se busca inicialmente al comenzar un proyecto cuando hay oportunidad.</li>
+			<li>Me gusta trabajar en equipo porque puedo aprender de otras personas y ellos de mi. Tengo buena comunicación con todo tipo de personas para lograr los objetivos que nos propongamos.</li>
+			<li>Me gusta participar en la resolución de problemas complejos porque me ayudan a aprender nuevas cosas que tal vez en el momento ni siquiera sabía que exístiesen o que pudieran realizarse.</li>
 		</ul>
-		
-		<h4>Alternate</h4>
-		<ul class="alt">
-			<li>Dolor etiam magna etiam.</li>
-			<li>Sagittis lorem eleifend.</li>
-			<li>Felis feugiat viverra.</li>
-		</ul>
-
 	</div>
 	<div class="6u$ 12u$(small)">
-
-		<h4>Ordered</h4>
-		<ol>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Etiam vel lorem sed viverra.</li>
-			<li>Felis dolore viverra.</li>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Etiam vel lorem sed viverra.</li>
-			<li>Felis dolore viverra.</li>
-		</ol>
-
 		<h4>Icons</h4>
 		<ul class="icons">
 			<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
@@ -82,7 +64,6 @@ nav-menu: true
 			<li><a href="#" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
 			<li><a href="#" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
 		</ul>
-
 	</div>
 </div>
 
@@ -139,8 +120,9 @@ nav-menu: true
 </div>
 
 <!-- Blockquote -->
-<h3>Blockquote</h3>
-<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis.</blockquote>
+<h3>Cita favorita</h3>
+<blockquote>Tus suposiciones son tus ventanas al mundo. Límpialas de vez en cuando o no entrará la luz.
+<h4>-Isaac Asimov</h3></blockquote>
 
 <!-- Table -->
 <h3>Table</h3>
