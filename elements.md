@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Acerca de mi
+description: 'Un poco de mi vida personal y profesional'
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
