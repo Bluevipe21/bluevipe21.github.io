@@ -18,11 +18,9 @@ nav-menu: true
 <!-- Content -->
 <h2 id="content">¿Cómo me describo?</h2>
 <p>Me considero una persona entusiasta con el mundo de la tecnología.  Me encanta aprender nuevas cosas no solo del mundo de la tecnología. Soy una persona introvertida, pero si me hablan no paro de charlar Me entusiasma mucho la música rock, clásica, metalera y electrónica. Y ahora comienzo con el mundo del deporte, me gusta ejercitarme como otra forma de desestresarme y sentirme mejor conmigo mismo. Soy una persona fácil de llevar, si se abren conmigo pueden encontrar a un amigo. Algo que puede describirme concretamente es que no puedo dejar dudas en el aire y siempre busco la manera de solucionar, hasta lo último, los problemas que se me presentan tanto a nivel personal como técnico de mi carrera. Y aunque me encanta mi país Guatemala, me gustaría algún día conocer otros países como Alemania. Más que todo porque soy seguidor del Bayern de Múnich y me encanta el fútbol de Europa.</p>
-		
+<hr class="major" />
 <!-- Aptitudes -->
 <h2 id="content">Aptitudes profesionales</h2>
-
-<h4>Definition</h4>
 <dl>
 	<dt>Item1</dt>
 	<dd>
@@ -37,7 +35,7 @@ nav-menu: true
 		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
 	</dd>
 </dl>
-		
+<hr class="major" />	
 <h2 id="content">Mis objetivos</h2>
 <div class="row">
 	<!-- Break -->
@@ -53,134 +51,13 @@ nav-menu: true
 		<h3>En la Robótica</h3>
 		<p>Trabajar en el mundo de la robótica a nivel industrial y tal vez algún día crear mi propio proyecto que sea de aporte para mi país a nivel educativo y económico.</p>
 	</div>
-</div>
-
-		
+</div>	
 <hr class="major" />
-
-<!-- Elements -->
-<h2 id="elements">Elements</h2>
-<div class="row 200%">
-	<div class="6u 12u$(medium)">
-
-<!-- Text stuff -->
-<h3>Text</h3>
-<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
-This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
-This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>.
-Finally, this is a <a href="#">link</a>.</p>
-<hr />
-<h2>Heading Level 2</h2>
-<h3>Heading Level 3</h3>
-<h4>Heading Level 4</h4>
-<hr />
-<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-		
-<!-- Lists -->
-<h3>Aptitudes profesionales</h3>
-<div class="row">
-	<div class="6u 12u$(small)">
-
-		<h4>Unordered</h4>
-		<ul>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Sagittis lorem eleifend.</li>
-			<li>Felis dolore viverra.</li>
-		</ul>
-
-		<h4>Alternate</h4>
-		<ul class="alt">
-			<li>Dolor etiam magna etiam.</li>
-			<li>Sagittis lorem eleifend.</li>
-			<li>Felis feugiat viverra.</li>
-		</ul>
-
-	</div>
-	<div class="6u$ 12u$(small)">
-
-		<h4>Ordered</h4>
-		<ol>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Etiam vel lorem sed viverra.</li>
-			<li>Felis dolore viverra.</li>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Etiam vel lorem sed viverra.</li>
-			<li>Felis dolore viverra.</li>
-		</ol>
-
-		<h4>Icons</h4>
-		<ul class="icons">
-			<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-			<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-			<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-			<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
-			<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
-			<li><a href="#" class="icon fa-tumblr"><span class="label">Tumblr</span></a></li>
-		</ul>
-		<ul class="icons">
-			<li><a href="#" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
-			<li><a href="#" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
-			<li><a href="#" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
-		</ul>
-
-	</div>
-</div>
-
-<h4>Definition</h4>
-<dl>
-	<dt>Item1</dt>
-	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
-	</dd>
-	<dt>Item2</dt>
-	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
-	</dd>
-	<dt>Item3</dt>
-	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
-	</dd>
-</dl>
-
-<h4>Actions</h4>
-<ul class="actions">
-	<li><a href="#" class="button special">Default</a></li>
-	<li><a href="#" class="button">Default</a></li>
-</ul>
-<ul class="actions small">
-	<li><a href="#" class="button special small">Small</a></li>
-	<li><a href="#" class="button small">Small</a></li>
-</ul>
-<div class="row">
-	<div class="6u 12u$(small)">
-		<ul class="actions vertical">
-			<li><a href="#" class="button special">Default</a></li>
-			<li><a href="#" class="button">Default</a></li>
-		</ul>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<ul class="actions vertical small">
-			<li><a href="#" class="button special small">Small</a></li>
-			<li><a href="#" class="button small">Small</a></li>
-		</ul>
-	</div>
-	<div class="6u 12u$(small)">
-		<ul class="actions vertical">
-			<li><a href="#" class="button special fit">Default</a></li>
-			<li><a href="#" class="button fit">Default</a></li>
-		</ul>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<ul class="actions vertical small">
-			<li><a href="#" class="button special small fit">Small</a></li>
-			<li><a href="#" class="button small fit">Small</a></li>
-		</ul>
-	</div>
-</div>
-
 <!-- Blockquote -->
 <h3>Blockquote</h3>
 <blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis.</blockquote>
+<hr class="major" />
+
 
 <!-- Table -->
 <h3>Table</h3>
