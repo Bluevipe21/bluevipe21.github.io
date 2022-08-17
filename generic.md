@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Educación
-description: Algunos proyectos que he trabajado
+description: Lo que he estudiado hasta ahora
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
