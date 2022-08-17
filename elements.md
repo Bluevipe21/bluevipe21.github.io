@@ -59,6 +59,7 @@ nav-menu: true
 <h3>Cita favorita</h3>
 <blockquote>Tus suposiciones son tus ventanas al mundo. Límpialas de vez en cuando o no entrará la luz.
 <h4>-Isaac Asimov</h4></blockquote>
+<br />
 <!-- Preformatted Code -->
 <h3>Preformatted</h3>
 <pre><code>i = 0;
