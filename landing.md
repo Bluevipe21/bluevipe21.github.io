@@ -1,7 +1,7 @@
 ---
-title: Educación
+title: Proyectos
 layout: landing
-description: 'Mi vida educativa a través de los años'
+description: 'Algunos proyectos que he realizado'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
