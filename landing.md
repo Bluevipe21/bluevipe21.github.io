@@ -1,7 +1,7 @@
 ---
 title: Educación
 layout: landing
-description: 'Mi vida educativa a través de los años.'
+description: 'Mi vida educativa a través de los años'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
