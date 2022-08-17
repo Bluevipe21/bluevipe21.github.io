@@ -60,10 +60,17 @@ nav-menu: true
 		<p>Trabajar en el mundo de la robótica a nivel industrial y tal vez algún día crear mi propio proyecto que sea de aporte para mi país a nivel educativo y económico.</p>
 	</div>
 </div>	
+<!-- Box -->
+<h3>Mis anhelos en la vida</h3>
+<div class="box">
+	<p>Quisiera convertirme en la mejor versión de mi persona, motivando a las personas a buscar sus objetivos, tratar de apoyar en lo que pueda a las personas que conozca, nunca conformarme con nada, mantenerme siempre proactivo y dejar una huella dentro de la sociedad y mejor aún en el ámbito tecnológico. </p>
+</div>	
+
 <hr class="major" />
 <!-- Blockquote -->
-<h3>Blockquote</h3>
-<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis.</blockquote>
+<h3>Cita favorita</h3>
+<blockquote>Tus suposiciones son tus ventanas al mundo. Límpialas de vez en cuando o no entrará la luz.
+<h4>-Isaac Asimov</h4></blockquote>
 <hr class="major" />
 
 
