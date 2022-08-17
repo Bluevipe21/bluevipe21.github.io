@@ -60,23 +60,8 @@ nav-menu: true
 <blockquote>Tus suposiciones son tus ventanas al mundo. Límpialas de vez en cuando o no entrará la luz.
 <h4>-Isaac Asimov</h4></blockquote>
 <br />
-<!-- Preformatted Code -->
-<h3>Preformatted</h3>
-<pre><code>i = 0;
-
-while (!deck.isInOrder()) {
-    print 'Iteration ' + i;
-    deck.shuffle();
-    i++;
-}
-
-print 'It took ' + i + ' iterations to sort the deck.';
-</code></pre>
-
 </div>
 </div>
-
 </div>
 </section>
-
 </div>
