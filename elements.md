@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cualidades
+title: Acerca de mi
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
@@ -12,12 +12,12 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Mis cualidades</h1>
+			<h1>Acerca de mi</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">¿Comó me describo?</h2>
-<p>Soy una persona orgullosa de sus raíces. Me gusta conocer gente de todas partes del mundo.</p>
+<h2 id="content">¿Cómo me describo?</h2>
+<p>Me considero una persona entusiasta con el mundo de la tecnología.  Me encanta aprender nuevas cosas no solo del mundo de la tecnología. Soy una persona introvertida, pero si me hablan no paro de charlar Me entusiasma mucho la música rock, clásica, metalera y electrónica. Y ahora comienzo con el mundo del deporte, me gusta ejercitarme como otra forma de desestresarme y sentirme mejor conmigo mismo. Soy una persona fácil de llevar, si se abren conmigo pueden encontrar a un amigo. Algo que puede describirme concretamente es que no puedo dejar dudas en el aire y siempre busco la manera de solucionar, hasta lo último, los problemas que se me presentan tanto a nivel personal como técnico de mi carrera. Y aunque me encanta mi país Guatemala, me gustaría algún día conocer otros países como Alemania. Más que todo porque soy seguidor del Bayern de Múnich y me encanta el fútbol de Europa. </p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>
