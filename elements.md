@@ -22,17 +22,25 @@ nav-menu: true
 <!-- Aptitudes -->
 <h2 id="content">Aptitudes profesionales</h2>
 <dl>
-	<dt>Item1</dt>
+	<dt>Trabajo en equipo</dt>
 	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
+		<p>Me gusta trabajar en equipo porque puedo aprender de otras personas y ellos de mi. Tengo buena comunicación con todo tipo de personas para lograr los objetivos que nos propongamos.</p>
 	</dd>
-	<dt>Item2</dt>
+	<dt>Inteligencia emocional</dt>
 	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
+		<p>Trabajo constantemente en mi inteligencia emocional para evitar conflictos irracionales con las personas ya que estos conflictos no ayudan al querer obtener una convivencia sana.</p>
 	</dd>
-	<dt>Item3</dt>
+	<dt>Resolución de problemas complejos</dt>
 	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
+		<p>Me gusta participar en la resolución de problemas complejos porque me ayudan a aprender nuevas cosas que tal vez en el momento ni siquiera sabía que exístiesen o que pudieran realizarse.</p>
+	</dd>
+	<dt>Iniciativa</dt>
+	<dd>
+		<p>Soy una persona con iniciativa que siempre busca innovar e ir más allá de lo que se busca inicialmente al comenzar un proyecto cuando hay oportunidad.</p>
+	</dd>
+	<dt>Resiliencia</dt>
+	<dd>
+		<p>Siempre busco adaptarme a las adversidades con calma y tratando de no complicar los problemas que ya exísten, trabajando en ello con paciencia.</p>
 	</dd>
 </dl>
 <hr class="major" />	
