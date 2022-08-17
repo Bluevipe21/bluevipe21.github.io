@@ -19,14 +19,14 @@ nav-menu: true
 <h2 id="content">¿Cómo me describo?</h2>
 <p>Me considero una persona entusiasta con el mundo de la tecnología.  Me encanta aprender nuevas cosas no solo del mundo de la tecnología. Soy una persona introvertida, pero si me hablan no paro de charlar Me entusiasma mucho la música rock, clásica, metalera y electrónica. Y ahora comienzo con el mundo del deporte, me gusta ejercitarme como otra forma de desestresarme y sentirme mejor conmigo mismo. Soy una persona fácil de llevar, si se abren conmigo pueden encontrar a un amigo. Algo que puede describirme concretamente es que no puedo dejar dudas en el aire y siempre busco la manera de solucionar, hasta lo último, los problemas que se me presentan tanto a nivel personal como técnico de mi carrera. Y aunque me encanta mi país Guatemala, me gustaría algún día conocer otros países como Alemania. Más que todo porque soy seguidor del Bayern de Múnich y me encanta el fútbol de Europa. </p>
 <div class="row">
-	[//]:<div class="6u 12u$(small)">
-		[//]:<h3>Sem turpis amet semper</h3>
-		[//]:<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	[//]:</div>
-	[//]: <div class="6u$ 12u$(small)">
-	[//]:	<h3>Magna odio tempus commodo</h3>
-	[//]:	<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
-	[//]:</div>
+	[comment]:<div class="6u 12u$(small)">
+		[comment]::<h3>Sem turpis amet semper</h3>
+		[comment]:<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	[comment]::</div>
+	[comment]: <div class="6u$ 12u$(small)">
+	[comment]:	<h3>Magna odio tempus commodo</h3>
+	[comment]:	<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+	[comment]::</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
 		:<h3>Interdum sapien gravida</h3>
