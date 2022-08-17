@@ -23,7 +23,7 @@ nav-menu: true
 <!-- Aptitudes -->
 <h2 id="content">Aptitudes profesionales</h2>
 <dl>
-	<dt>Trabajo en equipo</dt>
+	<dt><u>Trabajo en equipo</u></dt>
 	<dd>
 		<p>Me gusta trabajar en equipo porque puedo aprender de otras personas y ellos de mi. Tengo buena comunicación con todo tipo de personas para lograr los objetivos que nos propongamos.</p>
 	</dd>
