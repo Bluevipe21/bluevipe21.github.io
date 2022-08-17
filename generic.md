@@ -17,4 +17,5 @@ He estudiado ingeniería en electrónica en la Universidad de San Carlos de Guat
 - Switch de transferencia domiciliar
 - Simulación de un protocolo x10
 - Entre otras aplicaciones.
+
 También he aprendido a programar microcontroladores y matrices de puertas lógicas programables en campo (FPGA´s). El uso de microcontroladores lo he aprendido en lenguaje C utilizando tarjetas como las de Texas Instruments. Y las FPGA's la he aprendido a programar utilizando el lenguaje de especificación VHDL. 
