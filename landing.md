@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Educación
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Mi vida educativa a través de los años.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
