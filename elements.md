@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Acerca de mi
+description: 'Conoce un poco más de mi'
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
