@@ -21,16 +21,16 @@ nav-menu: true
 <div class="row">
 	<div class="4u 12u$(medium)">
 		<h2 id="content">Mis objetivos</h2>
-		<h3>Mis objetivos actuales</h3>
-		<p>Actualmente me encuentro aprendiendo muchas cosas sobre el mundo de la automatización por lo que mis objetivos van enfocados en esto. Uno de mis objetivos es aplicar lo que he aprendido a una proyecto que sea de bien para mi país. Otro objetivo es trabajar con robots industriales que armen productos que utilizamos ó consumimos a diario. Y un tercer objetivo es lograr</p>
+		<h3>Automatización</h3>
+		<p>Lograr aplicar el conocimiento que adquiero para ayudar a construir proyectos que contribuyan a la sociedad de manera tecnológica y que alegren a las personas.</p>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>Faucibus consequat lorem</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Robótica</h3>
+		<p>Trabajar en el mundo de la robótica a nivel industrial y tal vez algún día crear mi propio proyecto que sea de aporte para mi país a nivel educativo y económico. </p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>Accumsan montes viverra</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Laboral</h3>
+		<p>Buscar ser parte del sector revolucionario a nivel tecnológico dentro de mi país.</p>
 	</div>
 </div>
 
