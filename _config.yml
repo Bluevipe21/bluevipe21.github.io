@@ -6,7 +6,7 @@ description: Bienvenidos a mi portafolio,<br /> aquí puedes ver mi formación e
 baseurl: "" # the subpath of your site, e.g. /blog
 url:  # the base hostname & protocol for your site
 author:
-street_address: 19 calle 11-61 zona 10
+street_address:
 city: Guatemala
 state: GT
 zip_code: 01010
