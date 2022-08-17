@@ -47,6 +47,13 @@ nav-menu: true
 			<li>Sagittis lorem eleifend.</li>
 			<li>Felis dolore viverra.</li>
 		</ul>
+		
+		<h4>Alternate</h4>
+		<ul class="alt">
+			<li>Dolor etiam magna etiam.</li>
+			<li>Sagittis lorem eleifend.</li>
+			<li>Felis feugiat viverra.</li>
+		</ul>
 
 	</div>
 	<div class="6u$ 12u$(small)">
