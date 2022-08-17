@@ -58,5 +58,5 @@ nav-menu: true
 <!-- Blockquote -->
 <h3>Cita favorita</h3>
 <blockquote>Tus suposiciones son tus ventanas al mundo. Límpialas de vez en cuando o no entrará la luz.
-<h4>-Isaac Asimov</h3></blockquote>
+<h4>-Isaac Asimov</h4></blockquote>
 
