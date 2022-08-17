@@ -20,4 +20,9 @@ He estudiado ingeniería en electrónica en la Universidad de San Carlos de Guat
 
 También he aprendido a programar microcontroladores y matrices de puertas lógicas programables en campo (FPGA´s). El uso de microcontroladores lo he aprendido en lenguaje C utilizando tarjetas como las de Texas Instruments. Y las FPGA's la he aprendido a programar utilizando el lenguaje de especificación VHDL. 
 
-
+graph TD
+    A[Christmas] -->|Get money| B(Go shopping)
+    B --> C{Let me think}
+    C -->|One| D[Laptop]
+    C -->|Two| E[iPhone]
+    C -->|Three| F[fa:fa-car Car]
