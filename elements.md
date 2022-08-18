@@ -2,6 +2,7 @@
 layout: page
 title: Acerca de mi
 description: 'Un poco de mi vida personal y profesional'
+mermaid : true
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
@@ -90,6 +91,11 @@ nav-menu: true
 </section>
 
 </div>
+
+pie title Aptitudes profesionales
+    "Dogs" : 386
+    "Cats" : 85
+    "Rats" : 15
 
 
 	
