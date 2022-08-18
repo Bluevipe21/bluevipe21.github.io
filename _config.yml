@@ -59,5 +59,6 @@ asciidoctor:
     - source-highlighter=coderay
     - icons=font
 
-
+plugins:
+  - jekyll-mermaid
 
