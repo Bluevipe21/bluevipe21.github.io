@@ -37,7 +37,7 @@ En el área de la automatización nos enseñaron instrumentación eléctrica que
 
 ```mermaid
 journey
-    title Mi nivel de educación académica
+    title Nivel alcanzado durante mi formación académica
     section Básica
       San Agustin: 6: Primaria
       Liceo Javier: 5: Secundaria
