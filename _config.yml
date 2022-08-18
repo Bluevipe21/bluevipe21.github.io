@@ -43,5 +43,14 @@ exclude:
 - CONTRIBUTING.md
 - README.md 
 
+asciidoc: {}
+asciidoctor:
+  base_dir: :docdir
+  safe: unsafe
+  attributes:
+    - idseparator=_
+    - source-highlighter=coderay
+    - icons=font
+
 gems: [jekyll-mermaid]
 
