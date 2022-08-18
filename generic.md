@@ -24,13 +24,14 @@ También he aprendido a programar microcontroladores y matrices de puertas lógi
 
 ```mermaid
 journey
-    title Mi educación
-    section Educación básica
+    title Mi nivel de educación académica
+    section Básica
       San Agustin: 6: Primaria
       Liceo Javier: 5: Secundaria
       Nuestra señora de guadalupe: 6: Secundaria
+    section Superior
       ITC: 7: Bachillerato
-    section Educación profesional
+    section Profesional
       USAC: 8: Universidad
 ```
 
