@@ -28,11 +28,12 @@ journey
     section Educación básica
       Colegio Mixto San Agustin: 5: Primaria
       Liceo Javier Vespertino: 3: Secundaria
-      Colegio parroquial nuestra señora de guadalupe: 7: Secundaria
+      Colegio nuestra señora de guadalupe: 7: Secundaria
       Instituto tecnológico en computación: 3: Bachillerato
     section Educación profesional
       Universidad de San Carlos de guatemala: 7: Universidad
-```  
+```
+
 
 
 
