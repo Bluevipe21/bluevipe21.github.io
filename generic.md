@@ -26,12 +26,12 @@ También he aprendido a programar microcontroladores y matrices de puertas lógi
 journey
     title Mi educación
     section Educación básica
-      Colegio Mixto San Agustin: 5: Educación primaria
-      Liceo Javier Vespertino: 3: Educación básica
-      Colegio parroquial nuestra señora de guadalupe: 1: Tercero básico
-      Instituto tecnológico en computación 3: Bachillerato en computación
+      Colegio Mixto San Agustin: 5: Primaria
+      Liceo Javier Vespertino: 3: Secundaria
+      Colegio parroquial nuestra señora de guadalupe: 7: Secundaria
+      Instituto tecnológico en computación: 3: Bachillerato
     section Educación profesional
-      Universidad de San Carlos de guatemala 9: Ingeniería en electrónica
+      Universidad de San Carlos de guatemala: 7: Universidad
 ```  
 
 
