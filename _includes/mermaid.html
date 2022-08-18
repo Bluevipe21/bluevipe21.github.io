@@ -3,7 +3,9 @@
   $(document).ready(function () {
     mermaid.initialize({
       startOnLoad:true,
-      theme: "dark",
+      theme: "forest",
+	     fontFamily : "arial",
+	     height : 35
     });
     window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
   });
