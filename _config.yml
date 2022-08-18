@@ -43,3 +43,6 @@ exclude:
 - CONTRIBUTING.md
 - README.md 
 
+plugins:
+    - search
+    - mermaid2
