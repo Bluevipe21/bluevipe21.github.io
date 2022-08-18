@@ -23,11 +23,15 @@ También he aprendido a programar microcontroladores y matrices de puertas lógi
 
 
 ```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+journey
+    title Mi educación
+    section Educación básica
+      Colegio Mixto San Agustin: 5: Educación primaria
+      Liceo Javier Vespertino: 3: Educación básica
+      Colegio parroquial nuestra señora de guadalupe: 1: Tercero básico
+      Instituto tecnológico en computación 3: Bachillerato en computación
+    section Educación profesional
+      Universidad de San Carlos de guatemala 9: Ingeniería en electrónica
 ```  
 
 
