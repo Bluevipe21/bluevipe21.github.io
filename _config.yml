@@ -52,5 +52,5 @@ asciidoctor:
     - source-highlighter=coderay
     - icons=font
 
-gems: [jekyll-mermaid]
+
 
