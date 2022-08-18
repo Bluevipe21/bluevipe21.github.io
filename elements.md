@@ -75,18 +75,6 @@ nav-menu: true
 <blockquote>Tus suposiciones son tus ventanas al mundo. Límpialas de vez en cuando o no entrará la luz.
 <h4>-Isaac Asimov</h4></blockquote>
 <hr class="major" />
-
-
-
-<!-- Image -->
-<h3>Siempre te invito a comunicarte conmigo para conocernos mejor.</h3>
-
-<h4>Fit</h4>
-<span class="image fit"><img src="{% link assets/images/pic03.jpg %}" alt="" /></span>
-
-
-
-
 </div>
 </section>
 
