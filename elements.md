@@ -92,11 +92,14 @@ nav-menu: true
 
 </div>
 
+```mermaid
 pie title Aptitudes profesionales
-    "Dogs" : 386
-    "Cats" : 85
-    "Rats" : 15
-
+    "Trabajo en equipo" : 98
+    "Inteligencia emocional" : 80
+    "Resolución de problemas complejos" : 70
+    "Iniciativa" : 93
+    "Resiliencia" : 65
+```
 
 	
 
