@@ -40,12 +40,12 @@ journey
     title Nivel alcanzado durante mi formación académica
     section Básica
       San Agustin: 6: Primaria
-      Liceo Javier: 5: Secundaria
-      Nuestra señora de guadalupe: 6: Secundaria
+      Liceo Javier: 3: Secundaria
+      Nuestra señora de guadalupe: 5: Secundaria
     section Superior
       ITC: 7: Bachillerato
     section Profesional
-      USAC: 8: Universidad
+      USAC: 7: Universidad
 ```
 
 
