@@ -3,6 +3,7 @@ layout: post
 title: Educación
 description: Lo que he estudiado hasta ahora
 image: assets/images/pic11.jpg
+mermaid: true
 nav-menu: true
 ---
 ## Educación a nivel bachiller
