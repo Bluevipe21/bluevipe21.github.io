@@ -28,11 +28,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Swtich de transferencia domiciliar</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>En este proyecto busque crear un circuito que permita el suministro de energía eléctrica a un domicilio en forma ininterrumpida. Conmutando al interrumpirse la energía comercial a una fuente propia del domicilio, como una batería. Retornando al suministro comercial cuando este se renueve en forma segura y rápida.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://github.com/Bluevipe21/SwitchTransferenciaDomiciliar.git" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
