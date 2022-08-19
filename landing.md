@@ -45,7 +45,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Newton-Raphson multivariable en un microcontrolador</h3>
 				</header>
-				<p>Como parte de un curso de métodos númericos que tome aprendí este método que es de los más útiles cuando se tiene, por ejemplo, una matriz de ecuaciones que modelan las articulaciones de un robot. Ya que por medio de este método se pueden encontrar los ángulos de las articulaciones para posicionar la herramienta de un robot en cierta posición; así como sus velocidades lineales y angulares.</p>
+				<p>Como parte de un curso de métodos númericos que tome aprendí este método que es de los más útiles cuando se tiene, por ejemplo, una matriz de ecuaciones que modelan las articulaciones de un robot. Ya que por medio de este método se pueden encontrar los ángulos de las articulaciones para posicionar la herramienta de un robot en cierta posición; así como sus velocidades lineales y angulares. El método lo desarrolle en lenguaje C para un microcontrolador de Texas Instruments.</p>
 				<ul class="actions">
 					<li><a href="https://github.com/Bluevipe21/NewtonRaphson_Multivariable.git" class="button">Learn more</a></li>
 				</ul>
