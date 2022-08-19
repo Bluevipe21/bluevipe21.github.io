@@ -43,11 +43,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Newton-Raphson multivariable en un microcontrolador</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Como parte de un curso de métodos númericos que tome aprendí este método que es de los más útiles cuando se tiene, por ejemplo, una matriz de ecuaciones que modelan las articulaciones de un robot. Ya que por medio de este método se pueden encontrar los ángulos de las articulaciones para posicionar la herramienta de un robot en cierta posición; así como sus velocidades lineales y angulares.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://github.com/Bluevipe21/NewtonRaphson_Multivariable.git" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
