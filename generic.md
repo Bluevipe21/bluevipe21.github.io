@@ -52,7 +52,7 @@ journey
 ### Curso Métodos Numéricos con Aplicaciones de Ingeniería en UDEMY 
 Durante el curso aprendí mejore mi entendimiento sobre los métodos númericos aplicados a problemas reales de la ingeniería. Como encontrar raíces de una o múltiples variables, optimización de funciones, ajuste de curvas de funciones con interpolación polinómica y splines, integración númerica y la diferenciación númerica. Para lo cual aprendí diferentes métodos para realizar este tipo de operaciones que resultan efectivas al momento de querer emplearlos en microcontroladores, PLC'S y aplicaciones de simulación y resolución de problemas utilizando principalmente el lenguaje MATLAB y Python.
 
-[![Certificado de UDEMY - Métodos Númericos](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.udemy.com/certificate/UC-3fbc7562-181c-436c-8a00-90979816d826/)
+[![Certificado de UDEMY - Métodos Númericos](/assets/images/UC-3fbc7562-181c-436c-8a00-90979816d826.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.udemy.com/certificate/UC-3fbc7562-181c-436c-8a00-90979816d826/)
 
 
 
