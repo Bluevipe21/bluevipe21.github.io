@@ -1,7 +1,6 @@
 ---
 title: Proyectos
 layout: landing
-description: 'Algunos proyectos que he realizado'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
