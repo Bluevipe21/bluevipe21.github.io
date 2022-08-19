@@ -14,7 +14,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Descripción de mis proyectos</h2>
 		</header>
-		<p>Aqui puedes ver algunos de los proyectos que he realizado durante mi carrera y otros creados como pasatiempo.</p>
+		<p>Aqui puedes ver algunos de los proyectos que he realizado durante mi carrera y otros creados como pasatiempo. Haciendo clic los botones de <b>Learn More</b> visitarás las páginas de mi GitHub con más información acerca de los proyectos. </p>
 	</div>
 </section>
 
