@@ -59,11 +59,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Ejemplo de set y reset utilizando tia portal con factoryio</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Este es un ejemplo simple de como conectar un programa creado en Tia Portal simulado en PLC_SIM con factoryio. En este caso utilice el programa factoryio para realizar un escenario en 3D donde se pudiera conectar el programa y probar su funcionamiento. Esto puede ayudar a las personas que tengan duda con la realización de este tipo de simulación.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://github.com/Bluevipe21/SET-RESET-TIA_PORTAL-FACTORYIO" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
