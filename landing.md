@@ -74,7 +74,7 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Last Post</h2>
 		</header>
 		<p>Probando el último post</p>
 		<ul class="actions">
