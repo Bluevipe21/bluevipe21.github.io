@@ -11,7 +11,7 @@ city: Guatemala
 state: GT
 zip_code: 01010
 country: Guatemala
-phone: (+502) 47708232
+#phone: (+502) 47708232
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -30,6 +30,7 @@ socials:
   Twitter: 
   Facebook: https://www.facebook.com/Bluevipe21/
   Slack:
+  Discord: LuisHBluevipe#5746
 
 # build settings
 markdown: kramdown
