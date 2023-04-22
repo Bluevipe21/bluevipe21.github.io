@@ -51,7 +51,7 @@ nav-menu: true
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
 		<h3>En el campo Laboral</h3>
-		<p>Buscar ser parte del sector revolucionario a nivel tecnológico dentro de mi país y aportar mi conocimiento a las empresas con las que trabaje.</p>
+		<p>Ser una persona eficiente y calificada para realizar diferentes tareas que tengan que ver con la electrónica y la automatización de tareas.</p>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>En el campo de la Automatización</h3>
