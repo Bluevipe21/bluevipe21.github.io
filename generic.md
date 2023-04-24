@@ -68,5 +68,5 @@ Durante el curso aprendí sobre como controlar, en su mayoría robots seriales, 
 
 La matemática para aprender todo lo descrito anteriormente fueron las matrices de transformación homógenea y los cuaterniones duales. 
 
-
+[![Certificado de zDynamics - Robótica: de la cinemática al control](/assets/images/zDynamics_certificado_Robotica.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.udemy.com/certificate/UC-ca3a7130-0d64-4642-aa42-e844da688654/)
 
