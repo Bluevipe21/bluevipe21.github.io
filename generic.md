@@ -7,33 +7,33 @@ mermaid: true
 nav-menu: true
 ---
 
-## Educación básica
-Mi educación básica la estudie en un colegio en la zona 5 de la ciudad capital de Guatemala. El nombre del colegio es San Agustin. En este colegio estudié desde parvulos hasta sexto primaria. Más adelante estudié primero y segundo básico en el Liceo Javier, ubicado en la calzada Aguilar Batres entre Guatemala y el municipio de Villa Nueva, durante la jornada vespertina. Tercero básico lo estudie en el Colegio Nuestra Señora de Guadalupe ubicado en la zona 10 de la ciudad capital de Guatemala.   
+## Basic education
+I studied my basic education at a school in zone 5 of the capital city of Guatemala. The name of the school is San Agustin, where I studied from preschool to sixth grade. Later, I studied first and second year of lower secondary education at Liceo Javier, located on Aguilar Batres Boulevard between Guatemala and the municipality of Villa Nueva, during the afternoon session. I studied third year of lower secondary education at Colegio Nuestra Señora de Guadalupe, located in zone 10 of the capital city of Guatemala.   
 
 ---
 
-## Educación a nivel bachiller
-En mi educación superior he estudiado bachillerato en computación. En el instituto tecnológico en computación (ITC) ubicado en la zona 1 de la ciudad capital de Guatemala. Durante mi carrera aprendí los fundamentos de la matemática y física que posteriormente me ayudarían durante mi carrera universitaria. Pero principalmente he estudiado la parte técnica sobre la programación, como la implementación de software en lenguajes de Java y el ahora casi obsoleto Visual Basic .NET. Además, aprendí sobre fundamentos de bases de datos relacionales y no relacionales. Y también los programas básicos que utiliza cualquier persona en casi cualquier trabajo de oficina como lo son el word y el excel. 
+## Higher education
+In my higher education, I have studied a degree in computer science. I completed my studies at the Institute of Technology in Computing (ITC), located in zone 1 of the capital city of Guatemala. During my degree, I learned the fundamentals of mathematics and physics, which would later help me during my university career. However, my main focus was on technical aspects such as programming, including the implementation of software in languages such as Java and the now almost obsolete Visual Basic .NET. Additionally, I learned about the basics of both relational and non-relational databases, as well as commonly used office programs such as Word and Excel that are essential in almost any workplace.
 
 ---
 
-## Educación a nivel universitario
-He estudiado ingeniería en electrónica en la Universidad de San Carlos de Guatemala. Durante la carrera he aprendido a diseñar placas para dispositivos electrónicos, a diseñar dispositivos electrónicos para diferentes aplicaciones. Entre las cuales puedo mencionar: 
+## University
+I have studied Electronics Engineering at the University of San Carlos of Guatemala. During my degree, I learned to design circuit boards for electronic devices and design electronic devices for various applications. Some examples of these applications include:
 
-- Osciladores y filtros activos
-- Switch de transferencia domiciliar
-- Simulación de un protocolo x10
-- Entre otras aplicaciones.
+- Active oscillators and filters
+- Household transfer switch
+- Implementation of an X10 protocol
+- And other applications based in the use of transistors, operational amplifiers, optocouplers and different sensors (everything that can be learn in a career in electronics). 
 
-También he aprendido a programar microcontroladores y matrices de puertas lógicas programables en campo (FPGA´s). El uso de microcontroladores lo he aprendido en lenguaje C utilizando tarjetas como las de Texas Instruments. Y las FPGA's la he aprendido a programar utilizando el lenguaje de especificación VHDL. Los proyectos que realice durante la carrera en esta área fueron los siguientes:
+I also learned how to program microcontrollers and programmable logic gate arrays (FPGAs). I used the C language to program microcontrollers, using boards such as those produced by Texas Instruments. For programming FPGAs, I used the VHDL specification language. Some of the projects I worked on in this area during my degree include:
 
-- Letrero utilizando la persistencia de la visión
-- Juego de battleship
-- Entre otras aplicaciones para otros cursos
-  
-En la carrera también nos enseñaron la parte de telecomunicaciones. En esta área aprendí sobre las comunicaciones analógicas y digitales empleadas para diferentes aplicaciones. Nos dieron la base matemática y estadística para modelar un sistema de telecomunicaciones. Aquí aprendí lo que es el ruido y la distorsión de señales debido a diferentes ambientes donde se transmiten las señales. Esta área también incluye el manejo y diseño de redes con las que se conectan diferentes equipos de una compañia a través de switch's, routers, entre otros. Esto con el objetivo de lograr una comunicación entre diferentes áreas de una compañia y proporcionales servicio a internet. 
+- A sign that utilizes persistence of vision
+- A battleship game
+- Other applications for various courses
 
-En el área de la automatización nos enseñaron instrumentación eléctrica que sirve para la adquisición de datos de diferentes sensores resistivos, capacitivos e inductivos. También aprendimos simbología y diagramas de instrumentación que nos dice como se esta implementando cierta parte de un proceso industrial. Y como aplicar sistemas de control para llevar el control de un proceso que requiera mantenerse bajo ciertas condiciones para funcionar. Y también aprendí programación en lenguaje de bloques en relés inteligentes y programación en lenguaje de escalera usado en PLC's, equipos utilizados para manejar equipo industrial.
+During my degree, I also learned about telecommunications. In this area, I learned about both analog and digital communication techniques for different applications. I gained a strong foundation in mathematics and statistics to model communication systems. I also learned about signal distortion and noise due to different environmental factors affecting signal transmission. This area also includes designing and managing networks to connect different equipment within a company, such as switches and routers, to provide internet services and facilitate communication between different departments.
+
+In the field of automation, I learned about electrical instrumentation that is used to collect data from various types of resistive, capacitive, and inductive sensors. We also studied instrumentation symbology and diagrams that show how certain parts of an industrial process are implemented. I also learned how to apply control systems to maintain a process under specific conditions to ensure proper operation. Finally, I gained experience in block language programming for intelligent relays and ladder language programming used in PLCs, equipment used to manage industrial machinery.
 
 ```mermaid
 journey
@@ -49,7 +49,7 @@ journey
 ```
 ---
 
-## Educación en línea
+## Online education
 ### Curso Métodos Numéricos con Aplicaciones de Ingeniería en UDEMY por parte de zDynamics
 Durante el curso aprendí mejore mi entendimiento sobre los métodos númericos aplicados a problemas reales de la ingeniería. Como encontrar raíces de una o múltiples variables, optimización de funciones, ajuste de curvas de funciones con interpolación polinómica y splines, integración númerica y la diferenciación númerica. Para lo cual aprendí diferentes métodos para realizar este tipo de operaciones que resultan efectivas al momento de querer emplearlos en microcontroladores, PLC'S y aplicaciones de simulación y resolución de problemas utilizando principalmente el lenguaje Python y el software MATLAB.
 
