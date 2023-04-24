@@ -50,7 +50,7 @@ journey
 ---
 
 ## Online education
-### Curso Métodos Numéricos con Aplicaciones de Ingeniería en UDEMY por parte de zDynamics
+### Course Numerical Methods with engineering applications by zDynamics
 During the course, I improved my understanding of numerical methods applied to real engineering problems. I learned how to find roots of single or multiple variables, optimize functions, curve fitting of functions with polynomial interpolation and splines, numerical integration, and numerical differentiation. To achieve this, I learned different methods to perform these operations that are effective when employing them in microcontrollers, PLCs, and simulation and problem-solving applications mainly using Python and MATLAB software.
 
 
@@ -58,23 +58,23 @@ During the course, I improved my understanding of numerical methods applied to r
 
 [![Certificado de zDynamics - Métodos Númericos](/assets/images/zDynamics_certificado_MetodosNumericos.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.zdynamics.org/about/#)
 
-### Curso de Control de Sistemas Dinámicos en UDEMY
-En este curso mejore mis habilidades al proponer funciones de control P, PD, PI, PID. También controles adaptables para ciertos sistemas donde se desconocen los parámetros físicos de funcionamiento, de por ejemplo motores. Y algo un poco más reciente que es el control difuso utilizado para crear una especie de razonamiento de una máquina pero donde el humano impone las reglas para determinar la respuesta de la máquina; algo parecido a establecer que es frío y que es caliente, según lo medido por un sensor. En el curso vi ejemplos de todos estos conceptos desarrollados en el lenguaje de Python y algunas simulaciones desarrolladas en MATLAB y en Simulink. Gracias a este curso aprendí a utilizar Simulink para realizar simulaciones de funciones de control.
+### Course of dynamic systems in UDEMY (certification in spanish)
+In this course, I improved my skills in proposing control functions such as P, PD, PI, and PID. I also learned about adaptive controls for certain systems where the physical operating parameters are unknown, such as motors. Additionally, I learned about fuzzy control, a more recent technique used to create machine reasoning, where humans establish rules to determine the machine's response, for example, determining what is hot or cold based on sensor measurements. Throughout the course, I was introduced to various examples of these concepts developed using Python and some simulations using MATLAB and Simulink. Thanks to this course, I learned how to use Simulink for control function simulations. 
 
 [![Certificado de UDEMY - Control de sistemas dinámicos](/assets/images/UC-ca3a7130-0d64-4642-aa42-e844da688654.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.udemy.com/certificate/UC-ca3a7130-0d64-4642-aa42-e844da688654/)
 
 ### Curso de Robótica: de la cinemática al control
-Durante el curso aprendí sobre como controlar, en su mayoría robots seriales, en el espacio de las articulaciones y el de la tarea. Esto aprendiendo a sacar los parámetros Denavit-Hartenberg del robot para posteriormente modelar la geometría del robot (cinemática directa e inversa) y luego pasar a su sistema dinámico; cuyo control se realizaba por medio de funciones de control como el controlador PD con compensación de la gravedad. Y por supuesto aprendí a plantear el modelo dinámico del robot basado en el propio movimiento del robot y factores externos que afectan su comportamiento como la gravedad, el rozamiento viscoso y el rozamiento de coulomb. 
+During the course, I learned about controlling mostly serial robots in joint and task space. This was achieved by extracting the Denavit-Hartenberg parameters of the robot to model its geometry (direct and inverse kinematics), and then moving on to its dynamic system. The control was achieved through functions such as PD control with gravity compensation. Additionally, I learned how to formulate the dynamic model of the robot, taking into account its own motion and external factors that affect its behavior such as gravity, viscous friction, and Coulomb friction.
 
-La matemática para aprender todo lo descrito anteriormente fueron las matrices de transformación homógenea y los cuaterniones duales. 
+The mathematics involved in learning all of the above were homogeneous transformation matrices and dual quaternions.
 
 [![Certificado de zDynamics - Robótica: de la cinemática al control](/assets/images/zDynamics_certificado_Robotica.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.zdynamics.org/about/#)
 
 
-### Curso de  Oleo hidráulica y neumática
-Durante el curso aprendí principios físicos sobre la neumática y la oleo hidráulica. También los dispositivos más importantes que se utilizan para el diseño de circuitos neumáticos y oleohidráulicos. Esto incluye el uso de actuadores, válvulas direccionales, bombas, válvulas antirretorno, válvulas de prellenado, entre otros dispositivos. Todo esto me ayudó a comprender el funcionamiento de diferentes maquinarias que utilizan neumática u oleo hidráulica que se utilizan a nivel industrial.
+### Course of hydraulic oil and pneumatic in Udemy (certification in spanish)
+During the course, I learned about the physical principles of pneumatics and hydraulics. I also learned about the most important devices used in the design of pneumatic and hydraulic circuits. This includes the use of actuators, directional valves, pumps, check valves, filling valves, and other devices. All of this helped me understand the functioning of different machinery that use pneumatics or hydraulics in industrial settings.
 
-Otra parte importante que aprendí fue a diseñar redes de aire comprimido y a diseñar la instalación basado en criterios como las pérdidas que hay en la instalación, el diámetro apropiado para las tuberías, el compresor y el consumo de cada circuito a conectar. Todo esto para redes abiertas, cerradas e interconectadas. 
+Another important part that I learned was how to design compressed air networks and how to design the installation based on criteria such as the losses that occur in the installation, the appropriate diameter for the pipes, the compressor, and the consumption of each circuit to be connected. All of this is for open, closed, and interconnected networks.
 
 [![Certificado de UDEMY - Oleo hidráulica y neumática](/assets/images/certificado_oleoHidraulica.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.udemy.com/certificate/UC-269b2bb4-1272-47d6-bbb5-afdb4e97a2a5/)
 
