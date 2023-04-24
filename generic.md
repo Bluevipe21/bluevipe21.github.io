@@ -56,7 +56,7 @@ Durante el curso aprendí mejore mi entendimiento sobre los métodos númericos 
 [![Certificado de UDEMY - Métodos Númericos](/assets/images/UC-3fbc7562-181c-436c-8a00-90979816d826.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.udemy.com/certificate/UC-3fbc7562-181c-436c-8a00-90979816d826/)
 
 
-[![Certificado de zDynamics - Métodos Númericos](/assets/images/zDynamics _ The Future is ROBOTICS_MetodosNumericos.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.zdynamics.org/about/#)
+[![Certificado de zDynamics - Métodos Númericos](/assets/images/zDynamics_certificado_MetodosNumericos.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.zdynamics.org/about/#)
 
 ### Curso de Control de Sistemas Dinámicos en UDEMY
 En este curso mejore mis habilidades al proponer leyes de control P, PD, PI, PID. También controles adaptables para ciertos sistemas donde se desconocen los parámetros físicos de funcionamiento, de por ejemplo motores. Y algo un poco más reciente que es el control difuso utilizado para crear una especie de razonamiento de una máquina pero donde el humano impone las reglas para determinar la respuesta de la máquina; algo parecido a establecer que es frío y que es caliente, según lo medido por un sensor. En el curso vi ejemplos de todos estos conceptos desarrollados en el lenguaje de Python y algunas simulaciones desarrolladas en MATLAB.
