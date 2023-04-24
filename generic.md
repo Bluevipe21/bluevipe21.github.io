@@ -50,7 +50,7 @@ journey
 ---
 
 ## Educación en línea
-### Curso Métodos Numéricos con Aplicaciones de Ingeniería en UDEMY 
+### Curso Métodos Numéricos con Aplicaciones de Ingeniería en UDEMY por parte de zDynamics
 Durante el curso aprendí mejore mi entendimiento sobre los métodos númericos aplicados a problemas reales de la ingeniería. Como encontrar raíces de una o múltiples variables, optimización de funciones, ajuste de curvas de funciones con interpolación polinómica y splines, integración númerica y la diferenciación númerica. Para lo cual aprendí diferentes métodos para realizar este tipo de operaciones que resultan efectivas al momento de querer emplearlos en microcontroladores, PLC'S y aplicaciones de simulación y resolución de problemas utilizando principalmente el lenguaje Python y el software MATLAB.
 
 [![Certificado de UDEMY - Métodos Númericos](/assets/images/UC-3fbc7562-181c-436c-8a00-90979816d826.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.udemy.com/certificate/UC-3fbc7562-181c-436c-8a00-90979816d826/)
@@ -62,3 +62,11 @@ Durante el curso aprendí mejore mi entendimiento sobre los métodos númericos 
 En este curso mejore mis habilidades al proponer funciones de control P, PD, PI, PID. También controles adaptables para ciertos sistemas donde se desconocen los parámetros físicos de funcionamiento, de por ejemplo motores. Y algo un poco más reciente que es el control difuso utilizado para crear una especie de razonamiento de una máquina pero donde el humano impone las reglas para determinar la respuesta de la máquina; algo parecido a establecer que es frío y que es caliente, según lo medido por un sensor. En el curso vi ejemplos de todos estos conceptos desarrollados en el lenguaje de Python y algunas simulaciones desarrolladas en MATLAB y en Simulink. Gracias a este curso aprendí a utilizar Simulink para realizar simulaciones de funciones de control.
 
 [![Certificado de UDEMY - Control de sistemas dinámicos](/assets/images/UC-ca3a7130-0d64-4642-aa42-e844da688654.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.udemy.com/certificate/UC-ca3a7130-0d64-4642-aa42-e844da688654/)
+
+### Curso de Robótica: de la cinemática al control
+Durante el curso aprendí sobre como controlar, en su mayoría robots seriales, en el espacio de las articulaciones y el de la tarea. Esto aprendiendo a sacar los parámetros Denavit-Hartenberg del robot para posteriormente modelar la geometría del robot (cinemática directa e inversa) y luego pasar a su sistema dinámico; cuyo control se realizaba por medio de funciones de control como el controlador PD con compensación de la gravedad. Y por supuesto aprendí a plantear el modelo dinámico del robot basado en el propio movimiento del robot y factores externos que afectan su comportamiento como la gravedad, el rozamiento viscoso y el rozamiento de coulomb. 
+
+La matemática para aprender todo lo descrito anteriormente fueron las matrices de transformación homógenea y los cuaterniones duales. 
+
+
+
