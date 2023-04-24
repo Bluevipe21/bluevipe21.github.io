@@ -76,5 +76,5 @@ Durante el curso aprendí principios físicos sobre la neumática y la oleo hidr
 
 Otra parte importante que aprendí fue a diseñar redes de aire comprimido y a diseñar la instalación basado en criterios como las pérdidas que hay en la instalación, el diámetro apropiado para las tuberías, el compresor y el consumo de cada circuito a conectar. Esto teniendo en cuenta la consideración de si la red es de tipo abierta, cerrada o interconectada. 
 
-[![Certificado de UDEMY - Oleo hidráulica y neumática](/assets/images/certificado_oleoHidraulica.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.udemy.com/certificate/UC-269b2bb4-1272-47d6-bbb5-afdb4e97a2a5//)
+[![Certificado de UDEMY - Oleo hidráulica y neumática](/assets/images/certificado_oleoHidraulica.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.udemy.com/certificate/UC-269b2bb4-1272-47d6-bbb5-afdb4e97a2a5/)
 
