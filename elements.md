@@ -50,7 +50,7 @@ nav-menu: true
 <div class="row">
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
-		<h3>In the proffesional field</h3>
+		<h3>For my career</h3>
 		<p>To be an efficient and qualified individual to perform various tasks related to electronics and task automation.</p>
 	</div>
 	<div class="4u 12u$(medium)">
@@ -64,15 +64,15 @@ nav-menu: true
 </div>	
 <hr class="major" />
 <!-- Box -->
-<h3>Mis anhelos en la vida</h3>
+<h3>My aspirations in life</h3>
 <div class="box">
-	<p>Quisiera convertirme en la mejor versión de mi persona, motivando a las personas a buscar sus objetivos, tratar de apoyar en lo que pueda a las personas que conozca, nunca conformarme con nada, mantenerme siempre proactivo y dejar una huella dentro de la sociedad y mejor aún en el ámbito tecnológico. </p>
+	<p>I aspire to become the best version of myself, inspiring people to pursue their goals, offering support to those I encounter, never settling for anything, staying proactive, and making a lasting impact on society, particularly in the field of technology. </p>
 </div>	
 
 <hr class="major" />
 <!-- Blockquote -->
-<h3>Cita favorita</h3>
-<blockquote>Tus suposiciones son tus ventanas al mundo. Límpialas de vez en cuando o no entrará la luz.
+<h3>Favorite quote</h3>
+<blockquote>Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won't come in.
 <h4>-Isaac Asimov</h4></blockquote>
 <hr class="major" />
 </div>
@@ -82,11 +82,11 @@ nav-menu: true
 
 ```mermaid
 pie title Aptitudes profesionales
-    "Trabajo en equipo" : 98
-    "Inteligencia emocional" : 80
-    "Resolución de problemas complejos" : 70
-    "Iniciativa" : 93
-    "Resiliencia" : 65
+    "Teamwork" : 98
+    "Emotional intelligence" : 80
+    "Ability to solve complex problems" : 70
+    "Initiative" : 93
+    "Resilience" : 65
 ```
 
 	
