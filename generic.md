@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Education
-description: Lo que he estudiado hasta ahora
+description: What I have studied so far
 image: assets/images/pic11.jpg
 mermaid: true
 nav-menu: true
