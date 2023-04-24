@@ -44,14 +44,14 @@ journey
       Nuestra señora de guadalupe: 5: Secondary
     section High
       ITC: 7: High school
-    section Proffesional
+    section Proffesional level
       USAC: 7: University
 ```
 ---
 
 ## Online education
 ### Curso Métodos Numéricos con Aplicaciones de Ingeniería en UDEMY por parte de zDynamics
-Durante el curso aprendí mejore mi entendimiento sobre los métodos númericos aplicados a problemas reales de la ingeniería. Como encontrar raíces de una o múltiples variables, optimización de funciones, ajuste de curvas de funciones con interpolación polinómica y splines, integración númerica y la diferenciación númerica. Para lo cual aprendí diferentes métodos para realizar este tipo de operaciones que resultan efectivas al momento de querer emplearlos en microcontroladores, PLC'S y aplicaciones de simulación y resolución de problemas utilizando principalmente el lenguaje Python y el software MATLAB.
+During the course, I improved my understanding of numerical methods applied to real engineering problems. I learned how to find roots of single or multiple variables, optimize functions, curve fitting of functions with polynomial interpolation and splines, numerical integration, and numerical differentiation. To achieve this, I learned different methods to perform these operations that are effective when employing them in microcontrollers, PLCs, and simulation and problem-solving applications mainly using Python and MATLAB software.
 
 
 
