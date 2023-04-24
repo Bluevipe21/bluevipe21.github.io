@@ -70,3 +70,11 @@ La matemática para aprender todo lo descrito anteriormente fueron las matrices 
 
 [![Certificado de zDynamics - Robótica: de la cinemática al control](/assets/images/zDynamics_certificado_Robotica.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.zdynamics.org/about/#)
 
+
+### Curso de  Oleo hidráulica y neumática
+Durante el curso aprendí principios físicos sobre la neumática y la oleo hidráulica. También los dispositivos más importantes que se utilizan para el diseño de circuitos neumáticos y oleohidráulicos; donde aprendí su funcionamiento y diseño, lo cual me permitió conocer como escoger los adecuados para un circuito que este en proceso de diseño. El diseño de los circuitos lo aprendí a realizar utilizando un método intuitivo (razonamiento) y el método cascada (serie de pasos).
+
+Otra parte importante que aprendí fue a diseñar redes de aire comprimido y a diseñar la instalación basado en criterios como las pérdidas que hay en la instalación, el diámetro apropiado para las tuberías, el compresor y el consumo de cada circuito a conectar. Esto teniendo en cuenta la consideración de si la red es de tipo abierta, cerrada o interconectada. 
+
+
+
