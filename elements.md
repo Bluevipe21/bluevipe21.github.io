@@ -46,20 +46,20 @@ nav-menu: true
 	</dd>
 </dl>
 <hr class="major" />	
-<h2 id="content">Mis objetivos</h2>
+<h2 id="content">My objectives</h2>
 <div class="row">
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
-		<h3>En el campo Laboral</h3>
-		<p>Ser una persona eficiente y calificada para realizar diferentes tareas que tengan que ver con la electrónica y la automatización de tareas.</p>
+		<h3>In the proffesional field</h3>
+		<p>To be an efficient and qualified individual to perform various tasks related to electronics and task automation.</p>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>En el campo de la Automatización</h3>
-		<p>Contribuir en el ámbito industrial ya que esto me hará aprender de los demás y así yo podré aportar a este sector tan apasionante.</p>
+		<h3>In the field of Automation</h3>
+		<p>Contribute in the industrial field as this will allow me to learn from others and in turn, contribute to this exciting sector.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>En la Robótica</h3>
-		<p>Trabajar en el mundo de la robótica a nivel industrial y tal vez algún día crear mi propio proyecto que sea de aporte para mi país a nivel educativo y económico.</p>
+		<h3>In robotics</h3>
+		<p>I aim to work in the field of robotics at the industrial level, and perhaps one day create my own project that contributes to the education and economy of my country.</p>
 	</div>
 </div>	
 <hr class="major" />
