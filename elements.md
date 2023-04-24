@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Acerca de mi
-description: 'Un poco de mi vida personal y profesional'
+title: About me
+description: 'A little bit of my proffesional and personal life'
 mermaid : true
 image: assets/images/pic01.jpg
 nav-menu: true
