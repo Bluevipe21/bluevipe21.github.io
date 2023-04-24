@@ -18,31 +18,31 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h2 id="content">¿Cómo me describo?</h2>
-<p>Me considero una persona entusiasta con el mundo de la tecnología.  Me encanta aprender nuevas cosas no solo del mundo de la tecnología. Soy una persona introvertida, pero si me hablan no paro de charlar Me entusiasma mucho la música rock, clásica, metalera y electrónica. Y ahora comienzo con el mundo del deporte, me gusta ejercitarme como otra forma de desestresarme y sentirme mejor conmigo mismo. Soy una persona fácil de llevar, si se abren conmigo pueden encontrar a un amigo. Algo que puede describirme concretamente es que no puedo dejar dudas en el aire y siempre busco la manera de solucionar, hasta lo último, los problemas que se me presentan tanto a nivel personal como técnico de mi carrera. Y aunque me encanta mi país Guatemala, me gustaría algún día conocer otros países como Alemania. Más que todo porque soy seguidor del Bayern de Múnich y me encanta el fútbol de Europa.</p>
+<h2 id="content">¿How do i describe myself?</h2>
+<p>I consider myself an enthusiastic person about the world of technology. I love learning new things not only related to technology. I am an introverted person, but if someone talks to me, I won't stop chatting. I am very passionate about rock, classical, metal, and electronic music. And now I'm getting into the world of sports; I like to exercise as another way to de-stress and feel better about myself. I am an easy-going person, and if people open up to me, they can find a friend. Something that can accurately describe me is that I can't leave doubts in the air, and I always look for ways to solve problems that arise, both personally and technically in my career. And although I love my country Guatemala, I would like to someday visit other countries like Germany, mainly because I am a fan of Bayern Munich and I love European football.</p>
 <hr class="major" />
 <!-- Aptitudes -->
-<h2 id="content">Aptitudes profesionales</h2>
+<h2 id="content">Proffesional skills</h2>
 <dl>
-	<dt><u>Trabajo en equipo</u></dt>
+	<dt><u>Teamwork</u></dt>
 	<dd>
-		<p>Me gusta trabajar en equipo porque puedo aprender de otras personas y ellos de mi. Tengo buena comunicación con todo tipo de personas para lograr los objetivos que nos propongamos.</p>
+		<p>I enjoy working in a team because I can learn from others and they can learn from me. I have good communication skills with all types of people in order to achieve the goals we set.</p>
 	</dd>
-	<dt><u>Inteligencia emocional</u></dt>
+	<dt><u>Emotional intelligence</u></dt>
 	<dd>
-		<p>Trabajo constantemente en mi inteligencia emocional para evitar conflictos irracionales con las personas ya que estos conflictos no ayudan al querer obtener una convivencia sana.</p>
+		<p>I constantly work on my emotional intelligence to avoid irrational conflicts with people as these conflicts do not contribute to fostering healthy relationships.</p>
 	</dd>
-	<dt><u>Resolución de problemas complejos</u></dt>
+	<dt><u>Ability to solve complex problems</u></dt>
 	<dd>
-		<p>Me gusta participar en la resolución de problemas complejos porque me ayudan a aprender nuevas cosas que tal vez en el momento ni siquiera sabía que exístiesen o que pudieran realizarse.</p>
+		<p>I enjoy participating in solving complex problems because it helps me learn new things that I may not have known existed or were possible before.</p>
 	</dd>
-	<dt><u>Iniciativa</u></dt>
+	<dt><u>Initiative</u></dt>
 	<dd>
-		<p>Soy una persona con iniciativa que siempre busca innovar e ir más allá de lo que se busca inicialmente al comenzar un proyecto cuando hay oportunidad.</p>
+		<p>I am a person with initiative who always seeks to innovate and go beyond what is initially sought when starting a project, whenever there is an opportunity.</p>
 	</dd>
-	<dt><u>Resiliencia</u></dt>
+	<dt><u>Resilience</u></dt>
 	<dd>
-		<p>Siempre busco adaptarme a las adversidades con calma y tratando de no complicar los problemas que ya exísten, trabajando en ello con paciencia.</p>
+		<p>I always try to adapt to adversities calmly and avoid complicating existing problems, working on them patiently.</p>
 	</dd>
 </dl>
 <hr class="major" />	
