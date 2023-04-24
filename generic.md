@@ -63,7 +63,7 @@ In this course, I improved my skills in proposing control functions such as P, P
 
 [![Certificado de UDEMY - Control de sistemas dinámicos](/assets/images/UC-ca3a7130-0d64-4642-aa42-e844da688654.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.udemy.com/certificate/UC-ca3a7130-0d64-4642-aa42-e844da688654/)
 
-### Curso de Robótica: de la cinemática al control
+### Course of Robotics: from kinematics to control
 During the course, I learned about controlling mostly serial robots in joint and task space. This was achieved by extracting the Denavit-Hartenberg parameters of the robot to model its geometry (direct and inverse kinematics), and then moving on to its dynamic system. The control was achieved through functions such as PD control with gravity compensation. Additionally, I learned how to formulate the dynamic model of the robot, taking into account its own motion and external factors that affect its behavior such as gravity, viscous friction, and Coulomb friction.
 
 The mathematics involved in learning all of the above were homogeneous transformation matrices and dual quaternions.
