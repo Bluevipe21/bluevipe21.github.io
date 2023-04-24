@@ -37,15 +37,15 @@ In the field of automation, I learned about electrical instrumentation that is u
 
 ```mermaid
 journey
-    title Nivel alcanzado durante mi formación académica
-    section Básica
-      San Agustin: 6: Primaria
-      Liceo Javier: 3: Secundaria
-      Nuestra señora de guadalupe: 5: Secundaria
-    section Superior
-      ITC: 7: Bachillerato
-    section Profesional
-      USAC: 7: Universidad
+    title Level reached during my academic training
+    section Basic
+      San Agustin: 6: Primary
+      Liceo Javier: 3: Secondary
+      Nuestra señora de guadalupe: 5: Secondary
+    section High
+      ITC: 7: High school
+    section Proffesional
+      USAC: 7: University
 ```
 ---
 
