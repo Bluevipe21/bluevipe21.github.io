@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Educación
+title: Education
 description: Lo que he estudiado hasta ahora
 image: assets/images/pic11.jpg
 mermaid: true
