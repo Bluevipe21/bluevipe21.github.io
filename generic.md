@@ -72,9 +72,9 @@ La matemática para aprender todo lo descrito anteriormente fueron las matrices 
 
 
 ### Curso de  Oleo hidráulica y neumática
-Durante el curso aprendí principios físicos sobre la neumática y la oleo hidráulica. También los dispositivos más importantes que se utilizan para el diseño de circuitos neumáticos y oleohidráulicos; donde aprendí su funcionamiento y diseño, lo cual me permitió conocer como escoger los adecuados para un circuito que este en proceso de diseño. El diseño de los circuitos lo aprendí a realizar utilizando un método intuitivo (razonamiento) y el método cascada (serie de pasos).
+Durante el curso aprendí principios físicos sobre la neumática y la oleo hidráulica. También los dispositivos más importantes que se utilizan para el diseño de circuitos neumáticos y oleohidráulicos. Esto incluye el uso de actuadores, válvulas direccionales, bombas, válvulas antirretorno, válvulas de prellenado, entre otros dispositivos. Todo esto me ayudó a comprender el funcionamiento de diferentes maquinarias que utilizan neumática u oleo hidráulica que se utilizan a nivel industrial.
 
-Otra parte importante que aprendí fue a diseñar redes de aire comprimido y a diseñar la instalación basado en criterios como las pérdidas que hay en la instalación, el diámetro apropiado para las tuberías, el compresor y el consumo de cada circuito a conectar. Esto teniendo en cuenta la consideración de si la red es de tipo abierta, cerrada o interconectada. 
+Otra parte importante que aprendí fue a diseñar redes de aire comprimido y a diseñar la instalación basado en criterios como las pérdidas que hay en la instalación, el diámetro apropiado para las tuberías, el compresor y el consumo de cada circuito a conectar. Todo esto para redes abiertas, cerradas e interconectadas. 
 
 [![Certificado de UDEMY - Oleo hidráulica y neumática](/assets/images/certificado_oleoHidraulica.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.udemy.com/certificate/UC-269b2bb4-1272-47d6-bbb5-afdb4e97a2a5/)
 
