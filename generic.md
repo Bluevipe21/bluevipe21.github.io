@@ -51,7 +51,7 @@ journey
       Nuestra señora de guadalupe: 5: Secondary
     section High
       ITC: 7: High school
-    section Proffesional level
+    section Professional level
       USAC: 7: University
 ```
 ---
