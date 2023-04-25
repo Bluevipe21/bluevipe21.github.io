@@ -35,8 +35,7 @@ During my degree, I also learned about telecommunications. In this area, I learn
 
 In the field of automation, I learned about electrical instrumentation that is used to collect data from various types of resistive, capacitive, and inductive sensors. We also studied instrumentation symbology and diagrams that show how certain parts of an industrial process are implemented. I also learned how to apply control systems to maintain a process under specific conditions to ensure proper operation. Finally, I gained experience in block language programming for intelligent relays and ladder language programming used in PLCs, equipment used to manage industrial machinery.
 
-I have completed all the required coursework for my degree, but I am currently waiting for the review of my thesis before I can graduate from university. Here are my certifications of finishing my curriculum and my certificate of passing my private exam.
-
+I have completed all the required coursework for my degree, but I am currently waiting for the review of my thesis before I can graduate from university. Here are my certifications of finishing my curriculum and my certificate of passing my private exam (both in spanish).
 
 
 
