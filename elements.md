@@ -26,7 +26,7 @@ nav-menu: true
 <dl>
 	<dt><u>Teamwork</u></dt>
 	<dd>
-		<p>I enjoy working in a team because I can learn from others and they can learn from me. I have good communication skills with all types of people in order to achieve the goals we set.</p>
+		<p>I enjoy working in a team because I can learn from others and they can learn from me. I have good communication skills with all types of people in order to achieve the goals we set. In the university i learn a lot of this!</p>
 	</dd>
 	<dt><u>Emotional intelligence</u></dt>
 	<dd>
@@ -34,7 +34,7 @@ nav-menu: true
 	</dd>
 	<dt><u>Ability to solve complex problems</u></dt>
 	<dd>
-		<p>I enjoy participating in solving complex problems because it helps me learn new things that I may not have known existed or were possible before.</p>
+		<p>I take pleasure in engaging with complex problems because it presents an opportunity to discover novel concepts and techniques that I may not have encountered before. My proficiency in problem-solving is honed through rigorous analysis of academic papers and mathematical exercises. This skill has been instrumental in some of my university projects as well as in my personal learning journey </p>
 	</dd>
 	<dt><u>Initiative</u></dt>
 	<dd>
