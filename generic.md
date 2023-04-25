@@ -7,8 +7,7 @@ mermaid: true
 nav-menu: true
 ---
 
-## Basic education
-I studied my basic education at a school in zone 5 of the capital city of Guatemala. The name of the school is San Agustin, where I studied from preschool to sixth grade. Later, I studied first and second year of lower secondary education at Liceo Javier, located on Aguilar Batres Boulevard between Guatemala and the municipality of Villa Nueva, during the afternoon session. I studied third year of lower secondary education at Colegio Nuestra Señora de Guadalupe, located in zone 10 of the capital city of Guatemala.   
+
 
 ---
 
