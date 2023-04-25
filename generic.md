@@ -42,18 +42,7 @@ I have completed all the required coursework for my degree, but I am currently w
 
 
 
-```mermaid
-journey
-    title Level reached during my academic training
-    section Basic
-      San Agustin: 6: Primary
-      Liceo Javier: 3: Secondary
-      Nuestra señora de guadalupe: 5: Secondary
-    section High
-      ITC: 7: High school
-    section Professional level
-      USAC: 7: University
-```
+
 ---
 
 ## Online education
