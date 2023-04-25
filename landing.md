@@ -12,9 +12,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Descripción de mis proyectos</h2>
+			<h2>Description of my projects</h2>
 		</header>
-		<p>Aqui puedes ver algunos de los proyectos que he realizado durante mi carrera y otros creados como pasatiempo. Haciendo clic los botones de <b>Learn More</b> visitarás las páginas de mi GitHub con más información acerca de los proyectos. </p>
+		<p>Here you can see some of the projects I have worked on during my career, as well as others created as a hobby. By clicking on the buttons. <b>Learn More</b> you will visit my GitHub with the information of the projects. </p>
 	</div>
 </section>
 
@@ -27,9 +27,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Swtich de transferencia domiciliar</h3>
+					<h3>Home transfer switch</h3>
 				</header>
-				<p>En este proyecto busque crear un circuito que permita el suministro de energía eléctrica a un domicilio en forma ininterrumpida. Conmutando al interrumpirse la energía comercial a una fuente propia del domicilio, como una batería. Retornando al suministro comercial cuando este se renueve en forma segura y rápida.</p>
+				<p>In this project i design a circuit that let me switch between the electrical supply from my home and
+the supply provided by a battery in DC (using an AC oscillator and a transformer). This with the objective of
+restoring the power supply to a circuit in a quick and safe way.</p>
 				<ul class="actions">
 					<li><a href="https://github.com/Bluevipe21/SwitchTransferenciaDomiciliar.git" class="button">Learn more</a></li>
 				</ul>
@@ -43,9 +45,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Newton-Raphson multivariable en un microcontrolador</h3>
+					<h3>Newton-Raphson multivariable in a microcontroller</h3>
 				</header>
-				<p>Como parte de un curso de métodos númericos que tome aprendí este método que es de los más útiles cuando se tiene, por ejemplo, una matriz de ecuaciones que modelan las articulaciones de un robot. Ya que por medio de este método se pueden encontrar los ángulos de las articulaciones para posicionar la herramienta de un robot en cierta posición; así como sus velocidades lineales y angulares. El método lo desarrolle en lenguaje C para un microcontrolador de Texas Instruments.</p>
+				<p>As part of a numerical methods course I took, I learned this method, which is most useful when you have, for example, a matrix of equations that model the joints of a robot. Since by means of this method the angles of the joints can be found to position the tool of a robot in a certain position; as well as their linear and angular velocities. The method was developed in C language for a Texas Instruments microcontroller.</p>
 				<ul class="actions">
 					<li><a href="https://github.com/Bluevipe21/NewtonRaphson_Multivariable.git" class="button">Learn more</a></li>
 				</ul>
@@ -59,7 +61,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Ejemplo de set y reset utilizando tia portal con factoryio</h3>
+					<h3>Example of set and reset using FactoryIO and TIA PORTAL</h3>
 				</header>
 				<p>Este es un ejemplo simple de como conectar un programa creado en Tia Portal simulado en PLC_SIM con factoryio. En este caso utilice el programa factoryio para realizar un escenario en 3D donde se pudiera conectar el programa y probar su funcionamiento. Esto puede ayudar a las personas que tengan duda con la realización de este tipo de simulación.</p>
 				<ul class="actions">
@@ -68,5 +70,6 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	
 </section>
 </div>
