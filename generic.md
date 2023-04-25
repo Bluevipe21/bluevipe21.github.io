@@ -36,9 +36,9 @@ In the field of automation, I learned about electrical instrumentation that is u
 
 I have completed all the required coursework for my degree, but I am currently waiting for the review of my thesis before I can graduate from university. Here are my certifications of finishing my curriculum and my certificate of passing my private exam (both in spanish).
 
-[![Certificado de cierre de pensum](/assets/images/Constancia_de_cierre_pensum.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.ingenieria.usac.edu.gt/firma-electronica/consultar-documento.php)
+[![Certificado de cierre de pensum](/assets/images/Constancia_de_cierre_pensum.jpg "Faculty of Engineering, USAC")](https://www.ingenieria.usac.edu.gt/firma-electronica/consultar-documento.php)
 
-[![Certificado de examen privado](/assets/images/Constancia_de_examen_privado.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.ingenieria.usac.edu.gt/firma-electronica/consultar-documento.php)
+[![Certificado de examen privado](/assets/images/Constancia_de_examen_privado.jpg "Faculty of Engineering, USAC")](https://www.ingenieria.usac.edu.gt/firma-electronica/consultar-documento.php)
 
 
 
