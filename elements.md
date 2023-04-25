@@ -19,7 +19,7 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content">¿How do i describe myself?</h2>
-<p>I consider myself an enthusiastic person about the world of technology. I love learning new things not only related to technology.</p>
+<p>I consider myself an enthusiastic person about the world of technology. I love learning new things, not only related to technology. I am always open to conversation and enjoy meeting new people. I am very passionate about music, particularly rock, classical, metal, and electronic music. Recently, I have developed an interest in sports and enjoy exercising as a way to de-stress and feel better about myself. I am an easy-going and empathetic person; if someone opens up to me, they can find a friend in me. One thing that accurately describes me is that I can't leave doubts unresolved, and I always look for ways to solve problems that arise, both personally and professionally. I love my country, Guatemala, but I am also interested in experiencing other cultures.</p>
 <hr class="major" />
 <!-- Aptitudes -->
 <h2 id="content">Professional skills</h2>
