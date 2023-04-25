@@ -40,7 +40,7 @@ I have completed all the required coursework for my degree, but I am currently w
 
 [![Certificado de examen privado](/assets/images/Constancia_de_examen_privado.jpg "Faculty of Engineering, USAC")](https://www.ingenieria.usac.edu.gt/firma-electronica/consultar-documento.php)
 
-<a href="https://www.ingenieria.usac.edu.gt/firma-electronica/consultar-documento.php"><img src="/assets/images/Constancia_de_examen_privado.jpg" alt="Texto alternativo" width="80%"></a>
+
 
 
 ---
