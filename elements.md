@@ -81,7 +81,7 @@ nav-menu: true
 </div>
 
 ```mermaid
-pie title Aptitudes profesionales
+pie title Professional skills
     "Teamwork" : 98
     "Emotional intelligence" : 80
     "Ability to solve complex problems" : 70
