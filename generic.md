@@ -38,7 +38,7 @@ I have completed all the required coursework for my degree, but I am currently w
 
 [![Certificado de cierre de pensum](/assets/images/Constancia_de_cierre_pensum.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.ingenieria.usac.edu.gt/firma-electronica/consultar-documento.php)
 
-
+[![Certificado de examen privado](/assets/images/Constancia_de_examen_privado.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.ingenieria.usac.edu.gt/firma-electronica/consultar-documento.php)
 
 
 
