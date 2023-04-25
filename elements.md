@@ -22,7 +22,7 @@ nav-menu: true
 <p>I consider myself an enthusiastic person about the world of technology. I love learning new things not only related to technology. I am an introverted person, but if someone talks to me, I won't stop chatting. I am very passionate about rock, classical, metal, and electronic music. And now I'm getting into the world of sports; I like to exercise as another way to de-stress and feel better about myself. I am an easy-going person, and if people open up to me, they can find a friend. Something that can accurately describe me is that I can't leave doubts in the air, and I always look for ways to solve problems that arise, both personally and technically in my career. And although I love my country Guatemala, I would like to someday visit other countries like Germany, mainly because I am a fan of Bayern Munich and I love European football.</p>
 <hr class="major" />
 <!-- Aptitudes -->
-<h2 id="content">Proffesional skills</h2>
+<h2 id="content">Professional skills</h2>
 <dl>
 	<dt><u>Teamwork</u></dt>
 	<dd>
