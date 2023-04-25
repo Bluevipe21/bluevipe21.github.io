@@ -63,7 +63,9 @@ restoring the power supply to a circuit in a quick and safe way.</p>
 				<header class="major">
 					<h3>Example of set and reset using FactoryIO and TIA PORTAL</h3>
 				</header>
-				<p>Este es un ejemplo simple de como conectar un programa creado en Tia Portal simulado en PLC_SIM con factoryio. En este caso utilice el programa factoryio para realizar un escenario en 3D donde se pudiera conectar el programa y probar su funcionamiento. Esto puede ayudar a las personas que tengan duda con la realización de este tipo de simulación.</p>
+				<p>This is an example of how to connect TIA PORTAL, using PLC_SIM, with FactoryIO. In this case i used the program
+FactoryIO to design a 3D scene to test the functionalaty of the program i developed in TIA PORTAL using ladder as the programming language of the project. This can help some people who has a problem or doubt with the realization of this
+type of simulation.</p>
 				<ul class="actions">
 					<li><a href="https://github.com/Bluevipe21/SET-RESET-TIA_PORTAL-FACTORYIO" class="button">Learn more</a></li>
 				</ul>
