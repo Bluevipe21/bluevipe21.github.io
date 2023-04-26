@@ -78,6 +78,26 @@ type of simulation.</p>
 
 </section>
 	
-	
+<!-- Three -->
+<section id="two" class="spotlights">
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Car for drawing pictures</h3>
+				</header>
+				<p>This project was created for a university class on assembly language. It features a two-wheeled car that draws pictures by moving around. The car's movements are programmed to create specific shapes and patterns. And all was developed for the microcontroller TM4C123GH6PM.</p>
+				<ul class="actions">
+					<li><a href="https://github.com/Bluevipe21/SwitchTransferenciaDomiciliar.git" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+</section>
+</section>
+
 	
 </div>
