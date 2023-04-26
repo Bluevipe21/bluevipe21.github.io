@@ -76,7 +76,7 @@ type of simulation.</p>
 	
 	
 
-</section>
+
 	
 <!-- Three -->
 <section id="three" class="spotlights">
