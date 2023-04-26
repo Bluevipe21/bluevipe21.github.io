@@ -95,7 +95,7 @@ type of simulation.</p>
 				</ul>
 			</div>
 		</div>
-	</section>
+	
 </section>
 </section>
 
