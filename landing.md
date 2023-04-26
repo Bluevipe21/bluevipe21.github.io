@@ -74,10 +74,6 @@ type of simulation.</p>
 	</section>	
 </section>
 	
-	
-
-
-	
 <!-- Three -->
 <section id="three" class="spotlights">
 	<section>
@@ -95,8 +91,7 @@ type of simulation.</p>
 				</ul>
 			</div>
 		</div>
-	
-</section>
+	</section>
 </section>
 
 	
