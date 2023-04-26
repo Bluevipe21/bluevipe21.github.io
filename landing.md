@@ -72,7 +72,6 @@ type of simulation.</p>
 			</div>
 		</div>
 	</section>	
-	<section id="three" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/circuitDesign.jpg %}" alt="" data-position="center center" />
@@ -88,7 +87,6 @@ type of simulation.</p>
 				</ul>
 			</div>
 		</div>
-	</section>
 </section>	
 </section>
 	
