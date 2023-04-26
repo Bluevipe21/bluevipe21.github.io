@@ -79,7 +79,7 @@ type of simulation.</p>
 </section>
 	
 <!-- Three -->
-<section id="two" class="spotlights">
+<section id="three" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
