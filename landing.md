@@ -67,7 +67,7 @@ restoring the power supply to a circuit in a quick and safe way.</p>
 FactoryIO to design a 3D scene to test the functionalaty of the program i developed in TIA PORTAL using ladder as the programming language of the project. This can help some people who has a problem or doubt with the realization of this
 type of simulation.</p>
 				<ul class="actions">
-					<li><a href="https://github.com/Bluevipe21/SET-RESET-TIA_PORTAL-FACTORYIO" class="button">Learn more</a></li>
+					<li><a href="https://github.com/Bluevipe21/Carrito_dibujar_figuras" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
