@@ -56,7 +56,7 @@ restoring the power supply to a circuit in a quick and safe way.</p>
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/industrialEngineering.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -67,7 +67,7 @@ restoring the power supply to a circuit in a quick and safe way.</p>
 FactoryIO to design a 3D scene to test the functionalaty of the program i developed in TIA PORTAL using ladder as the programming language of the project. This can help some people who has a problem or doubt with the realization of this
 type of simulation.</p>
 				<ul class="actions">
-					<li><a href="https://github.com/Bluevipe21/Carrito_dibujar_figuras" class="button">Learn more</a></li>
+					<li><a href="https://github.com/Bluevipe21/SET-RESET-TIA_PORTAL-FACTORYIO.git" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -78,7 +78,7 @@ type of simulation.</p>
 <section id="three" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/circuitDesign.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -87,7 +87,7 @@ type of simulation.</p>
 				</header>
 				<p>This project was created for a university class on assembly language. It features a two-wheeled car that draws pictures by moving around. The car's movements are programmed to create specific shapes and patterns. And all was developed for the microcontroller TM4C123GH6PM.</p>
 				<ul class="actions">
-					<li><a href="https://github.com/Bluevipe21/SwitchTransferenciaDomiciliar.git" class="button">Learn more</a></li>
+					<li><a href="https://github.com/Bluevipe21/Carrito_dibujar_figuras" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
