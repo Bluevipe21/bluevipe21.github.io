@@ -88,6 +88,22 @@ type of simulation.</p>
 			</div>
 		</div>
 </section>	
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/math.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Filling a tank - Matlab simulation</h3>
+				</header>
+				<p>This is a project for a control system developed in Matlab using Simulink, in which I utilized a proportional control function.</p>
+				<ul class="actions">
+					<li><a href="https://github.com/Bluevipe21/fillingTank_controlSystem.git" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+</section>	
 </section>
 
 
